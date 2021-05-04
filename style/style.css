@@ -142,4 +142,25 @@ main{
         width: 65%;
     }
 
+    .o:after{
+        position: absolute;
+        content: '\2B55';
+        font-size: 50px;
+        line-height: 80px;
+        top: 0;
+        right: 0;
+        left: 5px;
+        bottom: 0;
+    }
+    .x:after{
+        position: absolute;
+        content: '\274C';
+        font-size: 50px;
+        line-height: 80px;
+        top: 0;
+        right: 0;
+        left: 5px;
+        bottom: 0;
+    }
+
 }
